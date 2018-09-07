@@ -6,7 +6,9 @@
         <div class="contentWrap">
             <div class="content">
                 <div class="logo">
-                    <img src="../assets/img/logo.png" alt="logo">
+                    <router-link to="/">
+                        <img src="../assets/img/logo.png" alt="logo">
+                    </router-link>
                 </div>
                 <div class="phone">
                     <div class="phoneLogo">

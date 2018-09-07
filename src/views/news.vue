@@ -208,6 +208,7 @@ export default {
             width: 1000px;
             padding:  0 50px;
             margin: 40px auto 0 ;
+            padding: 30px 0 ;
             .newsWrap{
                 width: 100%;
                 height: 100%;
